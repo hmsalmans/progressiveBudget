@@ -2,8 +2,8 @@
 
 This app gives users a fast and easy way to track income and spending at anytime, regardless of internet connectivity.
 
-Get started using the application here:
-
+###Get started using the application here:
+https://shielded-river-08033.herokuapp.com/
 
 ## Table of Contents
 * [Installation](#installation)
