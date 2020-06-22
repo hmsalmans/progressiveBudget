@@ -1,4 +1,4 @@
-# progressiveBudget# Budget App
+# progressiveBudget
 
 This app gives users a fast and easy way to track income and spending at anytime, regardless of internet connectivity.
 
